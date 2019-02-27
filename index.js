@@ -1,5 +1,1 @@
-const hellowWorld = () => {
-  console.log("Hello World!")
-}
-
-export default helloWorld;
+module.exports = (message) => message.toUpperCase();

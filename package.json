@@ -2,7 +2,7 @@
   "name": "packageimporttest",
   "version": "1.0.0",
   "description": "To test a package import when not referenced via version, hash, tag etc...",
-  "main": "helloWorld.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

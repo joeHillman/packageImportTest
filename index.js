@@ -1,1 +1,4 @@
-module.exports = (message) => message.toUpperCase();
+module.exports = {
+  comments: "commentsString",
+  meter: "meterString"
+}

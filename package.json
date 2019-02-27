@@ -1,0 +1,19 @@
+{
+  "name": "packageimporttest",
+  "version": "1.0.0",
+  "description": "To test a package import when not referenced via version, hash, tag etc...",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeHillman/packageImportTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeHillman/packageImportTest/issues"
+  },
+  "homepage": "https://github.com/joeHillman/packageImportTest#readme"
+}

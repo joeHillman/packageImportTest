@@ -1,4 +1,5 @@
 module.exports = {
   comments: "commentsString",
-  meter: "meterString"
+  meter: "meterString",
+  login: "loginString"
 }
